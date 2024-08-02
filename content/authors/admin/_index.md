@@ -10,7 +10,7 @@ first_name: Ace
 last_name: Pugh
 
 # Status emoji
-status:
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
