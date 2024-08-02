@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: N. Ace Pugh
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ace
+last_name: Pugh
 
 # Status emoji
 status:
@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: USDA-ARS
+    url: https://www.ars.usda.gov/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:npugh501@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/DrAcePugh
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.DrAcePugh.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/AcePugh
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,15 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Phenomics
+  - Remote Sensing
+  - Crop Breeding and Genetics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Plant Breeding
+    institution: Texas A&M University
+    date_start: 2015-08-01
+    date_end: 2018-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
