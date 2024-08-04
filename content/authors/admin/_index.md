@@ -1,6 +1,6 @@
 ---
 # Display name
-title: N. Ace Pugh
+title: N. Ace Pugh, Ph.D.
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -35,16 +35,16 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/DrAcePugh
-  - icon: brands/instagram
-    url: https://www.DrAcePugh.com/
+#  - icon: brands/instagram
+#    url: https://www.DrAcePugh.com/
   - icon: brands/github
     url: https://github.com/AcePugh
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
   - Crop Phenomics
