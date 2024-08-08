@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: poison   #default is "system"
-#  color: emerald
+  mode: system
+  color: ocean
 
 # SEO
 marketing:
