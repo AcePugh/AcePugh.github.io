@@ -39,7 +39,7 @@ sections:
 
         I use a wide range of remote sensing tools such as small unoccupied aircraft systems (sUAS), or "drones", satellite imagery, and field-based proximal sensors. Once these data are collected, I use machine learning techniques to estimate or predict key traits including yield, drought tolerance, quality, and more.
         
-        Please contact me if you're interested in collaborating 😃
+        Please contact me if you're interested in collaborating!
     design:
       columns: '1'
   - block: collection
