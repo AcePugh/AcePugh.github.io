@@ -133,18 +133,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Coding
         description: ''
-        percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Gaming
         description: ''
-        percent: 100
         icon: cat
-      - name: Photography
+      - name: Gym
         description: ''
-        percent: 80
         icon: camera
+      - name: Cooking
+        description: ''
 
 # Awards.
 #   Add/remove as many awards below as you like.
