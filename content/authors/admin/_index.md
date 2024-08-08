@@ -179,4 +179,4 @@ skills:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nicholas Ace Pugh is a USDA-ARS postdoctoral Research Geneticist at the Cropping Systems Research Laboratory in Lubbock, TX. His research interests include plant breeding and genetics, remote sensing and digital agriculture, and the applied use of artificial intelligence. 
