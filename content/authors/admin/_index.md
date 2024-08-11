@@ -60,6 +60,7 @@ education:
     date_end: 2018
     summary: |
       Dissertation on the use of remote and proximal sensing in crop breeding programs. Supervised by [Prof William L. Rooney](wlr@tamu.edu). 
+
     button:
       text: 'Read Dissertation'
       url: 'https://oaktrust.library.tamu.edu/handle/1969.1/174548'
@@ -69,6 +70,7 @@ education:
     date_end: 2015
     summary: |
       Thesis on determining heritability and identifying quantitative trait loci (QTL) for popping quality in sorghum grain. Supervised by [Prof William L. Rooney (wlr@tamu.edu).
+      
     button:
       text: 'Read Thesis'
       url: 'https://oaktrust.library.tamu.edu/handle/1969.1/155661'
