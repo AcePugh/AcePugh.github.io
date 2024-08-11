@@ -59,23 +59,19 @@ education:
     date_start: 2015
     date_end: 2018
     summary: |
-      'Dissertation on the use of remote and proximal sensing in crop breeding programs. Supervised by [Prof William L. Rooney](wlr@tamu.edu).' 
-
+      Dissertation on the use of remote and proximal sensing in crop breeding programs. Supervised by [Prof William L. Rooney](wlr@tamu.edu). 
     button:
       text: 'Read Dissertation'
       url: 'https://oaktrust.library.tamu.edu/handle/1969.1/174548'
-
   - area: MS Plant Breeding
     institution: Texas A&M university
     date_start: 2012
     date_end: 2015
     summary: |
-      'Thesis on determining heritability and identifying quantitative trait loci (QTL) for popping quality in sorghum grain. Supervised by [Prof William L. Rooney (wlr@tamu.edu).'
-
+      Thesis on determining heritability and identifying quantitative trait loci (QTL) for popping quality in sorghum grain. Supervised by [Prof William L. Rooney (wlr@tamu.edu).
     button:
       text: 'Read Thesis'
       url: 'https://oaktrust.library.tamu.edu/handle/1969.1/155661'
- 
  - area: BS Biology
     institution: University of Central Oklahoma
     date_start: 2006
@@ -90,13 +86,12 @@ work:
     date_start: 2021
     date_end: ''
     summary: |
-      'Responsibilities include:
+      Responsibilities include:
       - Collection of remote sensing data for cotton, sorghum, peanut, and maize using drones
       - Processing of imagery and feature extraction
       - Development of machine learning models for yield and other key traits for cotton, peanut, and sorghum
       - Assisting with breeding and improvement of sorghum and other crops
-      - Genetic analyses and other laboratory assays as needed'
-      
+      - Genetic analyses and other laboratory assays as needed     
   - position: Postdoctoral Scientist
     company_name: University of Arizona
     company_url: ''
@@ -104,10 +99,10 @@ work:
     date_start: 2019
     date_end: 2021
     summary: |
-      'Responsibilities included:
+      Responsibilities included:
       - Collection of remote sensing data for cotton and other crops using drones
       - Processing of raw imagery for feature extraction
-      - Lead on project involving determining optimal georeferencing methodologies'
+      - Lead on project involving determining optimal georeferencing methodologies
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
