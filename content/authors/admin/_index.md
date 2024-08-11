@@ -61,23 +61,24 @@ education:
     summary: |
       Dissertation on the use of remote and proximal sensing in crop breeding programs. Supervised by [Prof William L. Rooney](wlr@tamu.edu). 
 
-      Courses included:
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read Dissertation'
+      url: 'https://oaktrust.library.tamu.edu/handle/1969.1/174548'
   - area: MS Plant Breeding
     institution: Texas A&M university
     date_start: 2012
     date_end: 2015
     summary: |
       Thesis on determining heritability and identifying quantitative trait loci (QTL) for popping quality in sorghum grain. Supervised by [Prof William L. Rooney](wlr@tamu.edu)
-
-      Courses included:
+    button:
+      text: 'Read Thesis'
+      url: 'https://oaktrust.library.tamu.edu/handle/1969.1/155661'
   - area: BS Biology
     institution: University of Central Oklahoma
     date_start: 2006
     date_end: 2012
     summary: |
+
 work:
   - position: Postdoctoral Research Geneticist
     company_name: USDA-ARS
