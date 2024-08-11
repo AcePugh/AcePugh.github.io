@@ -89,7 +89,7 @@ work:
     company_logo: ''
     date_start: 2021
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Collection of remote sensing data for cotton, sorghum, peanut, and maize using drones
       - Processing of imagery and feature extraction
