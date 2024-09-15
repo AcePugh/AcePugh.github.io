@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD Plant Breeding
     institution: Texas A&M University
-    date_start: '2015'
-    date_end: '2018'
+    date_start: '2015-05-21'
+    date_end: '2018-12-15'
     summary: |
       Dissertation on the use of remote and proximal sensing in crop breeding programs.
     button:
@@ -65,8 +65,8 @@ education:
       url: https://oaktrust.library.tamu.edu/handle/1969.1/174548
   - area: MS Plant Breeding
     institution: Texas A&M university
-    date_start: '2012'
-    date_end: '2015'
+    date_start: '2012-08-01'
+    date_end: '2015-05-20'
     summary: |
       Thesis on determining heritability and identifying quantitative trait loci (QTL) for popping quality in sorghum grain.
     button:
@@ -74,15 +74,15 @@ education:
       url: https://oaktrust.library.tamu.edu/handle/1969.1/155661
   - area: BS Biology
     institution: University of Central Oklahoma
-    date_start: '2006'
-    date_end: '2012'
+    date_start: '2006-08-01'
+    date_end: '2012-05-20'
 
 work:
   - position: Postdoctoral Research Geneticist
     company_name: USDA-ARS
     company_url: ''
     company_logo: ''
-    date_start: '2021'
+    date_start: '2021-07-05'
     date_end: ''
     summary: |
       Responsibilities include:
