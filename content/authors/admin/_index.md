@@ -95,8 +95,8 @@ work:
     company_name: University of Arizona
     company_url: ''
     company_logo: ''
-    date_start: '2019'
-    date_end: '2021'
+    date_start: '2019-01-01'
+    date_end: '2021-06-20'
     summary: |
       Responsibilities included:
       - Collection of remote sensing data for cotton and other crops using drones
