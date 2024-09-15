@@ -54,9 +54,10 @@ url_pdf: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption:
-  focal_point: ''
+  caption: A peanut field in Lubbock, TX
+  focal_point: 
   preview_only: false
+  orientation: 'none'  # or you can use '0' to indicate no rotation
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
