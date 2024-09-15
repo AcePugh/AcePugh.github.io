@@ -56,28 +56,28 @@ interests:
 education:
   - area: PhD Plant Breeding
     institution: Texas A&M University
-    date_start: 2015
-    date_end: 2018
+    date_start: '2015'
+    date_end: '2018'
     summary: |
       Dissertation on the use of remote and proximal sensing in crop breeding programs. Supervised by [Prof William L. Rooney](wlr@tamu.edu). 
 
     button:
-      text: 'Read Dissertation'
-      url: 'https://oaktrust.library.tamu.edu/handle/1969.1/174548'
+      text: Read Dissertation
+      url: https://oaktrust.library.tamu.edu/handle/1969.1/174548
   - area: MS Plant Breeding
     institution: Texas A&M university
-    date_start: 2012
-    date_end: 2015
+    date_start: '2012'
+    date_end: '2015'
     summary: |
       Thesis on determining heritability and identifying quantitative trait loci (QTL) for popping quality in sorghum grain. Supervised by [Prof William L. Rooney (wlr@tamu.edu).
       
     button:
-      text: 'Read Thesis'
-      url: 'https://oaktrust.library.tamu.edu/handle/1969.1/155661'
+      text: Read Thesis
+      url: https://oaktrust.library.tamu.edu/handle/1969.1/155661
  - area: BS Biology
     institution: University of Central Oklahoma
-    date_start: 2006
-    date_end: 2012
+    date_start: '2006'
+    date_end: '2012'
     summary: |
 
 work:
@@ -85,7 +85,7 @@ work:
     company_name: USDA-ARS
     company_url: ''
     company_logo: ''
-    date_start: 2021
+    date_start: '2021'
     date_end: ''
     summary: |
       Responsibilities include:
@@ -98,8 +98,8 @@ work:
     company_name: University of Arizona
     company_url: ''
     company_logo: ''
-    date_start: 2019
-    date_end: 2021
+    date_start: '2019'
+    date_end: '2021'
     summary: |
       Responsibilities included:
       - Collection of remote sensing data for cotton and other crops using drones
@@ -112,7 +112,7 @@ skills:
   - name: Technical Skills
     items:
       - name: Drone Pilot
-        description: 'Certified Part 107 UAS Pilot'
+        description: Certified Part 107 UAS Pilot
         percent: 
         icon: 
       - name: Python
