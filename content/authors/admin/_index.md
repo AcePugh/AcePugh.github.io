@@ -76,7 +76,6 @@ education:
     institution: University of Central Oklahoma
     date_start: '2006'
     date_end: '2012'
-    summary: |
 
 work:
   - position: Postdoctoral Research Geneticist
