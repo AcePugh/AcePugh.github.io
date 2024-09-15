@@ -72,7 +72,7 @@ education:
     button:
       text: Read Thesis
       url: https://oaktrust.library.tamu.edu/handle/1969.1/155661
-   - area: BS Biology
+  - area: BS Biology
     institution: University of Central Oklahoma
     date_start: '2006'
     date_end: '2012'
