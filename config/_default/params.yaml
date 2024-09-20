@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: system #dark, light, or system mode?
   color: blue   #originally emerald
 
 # SEO
@@ -29,8 +29,17 @@ marketing:
 # Site header
 header:
   navbar:
+  #Display the navigation bar?
     enable: true
+    #choose a built-in navigation blox or create your own
     blox: "navbar"
+    #Align menu links: 'left', 'center', or 'right'
+    logo:
+    #Logo text
+      text: ""
+      #Logo filename in 'assets/media/' folder
+      filename: "logo.svg"
+    # Shop a call-to-action button in the top right?
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
