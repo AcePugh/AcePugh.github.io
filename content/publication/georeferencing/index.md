@@ -1,5 +1,5 @@
 ---
-title: 'Yield prediction in a peanut breeding program using remote sensing data and machine learning algorithms'
+title: 'Comparison of image georeferencing strategies for agricultural applications of small unoccupied aircraft systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
