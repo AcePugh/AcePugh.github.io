@@ -6,17 +6,15 @@ title: 'Yield prediction in a peanut breeding program using remote sensing data 
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Andrew Young
-  - Manisha Ojha
-  - Yves Emendack
-  - Jacobo Sanchez
-  - Zhanguo Xin
-  - Naveen Puppala
+  - Kelly R. Thorp
+  - Emmanuel M. Gonzalez
+  - Diaa Eldin M. Elshikha
+  - Duke Pauli
 
 # Author notes (optional)
 #author_notes:
-date: '2024-02-19'
-doi: 'https://doi.org/10.3389/fpls.2024.1339864'
+date: '2021-11-02'
+doi: 'https://doi.org/10.1002/ppj2.20026'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -27,18 +25,18 @@ doi: 'https://doi.org/10.3389/fpls.2024.1339864'
 publication_types: ['Research Paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Frontiers in Plant Science*
+publication: In *The Plant Phenome*
 #publication_short: In *F*
 
-abstract: Peanut is a critical food crop worldwide, and the development of high-throughput phenotyping techniques is essential for enhancing the crop’s genetic gain rate. Given the obvious challenges of directly estimating peanut yields through remote sensing, an approach that utilizes above-ground phenotypes to estimate underground yield is necessary. To that end, this study leveraged unmanned aerial vehicles (UAVs) for high-throughput phenotyping of surface traits in peanut. Using a diverse set of peanut germplasm planted in 2021 and 2022, UAV flight missions were repeatedly conducted to capture image data that were used to construct high-resolution multitemporal sigmoidal growth curves based on apparent characteristics, such as canopy cover and canopy height. Latent phenotypes extracted from these growth curves and their first derivatives informed the development of advanced machine learning models, specifically random forest and eXtreme Gradient Boosting (XGBoost), to estimate yield in the peanut plots. The random forest model exhibited exceptional predictive accuracy (R2 = 0.93), while XGBoost was also reasonably effective (R2 = 0.88). When using confusion matrices to evaluate the classification abilities of each model, the two models proved valuable in a breeding pipeline, particularly for filtering out underperforming genotypes. In addition, the random forest model excelled in identifying top-performing material while minimizing Type I and Type II errors. Overall, these findings underscore the potential of machine learning models, especially random forests and XGBoost, in predicting peanut yield and improving the efficiency of peanut breeding programs.
+abstract: Small unoccupied aircraft systems (sUAS) are becoming popular for mapping applications in agriculture, and photogrammetry software is available for developing orthorectified imagery and three-dimensional surface models. Ground control points (GCPs), which are objects or locations with known geographic coordinates, may be required for accurate image georeferencing. However, few studies have compared global position equipment among sUAS or investigated the effects of GCP number or arrangement on georeferencing accuracy. The objectives of this study were to evaluate numbers and configurations of GCPs for georeferencing sUAS-acquired images and determine the GCP requirements for sUAS with and without real-time kinematic (RTK) global positioning equipment. The effects of varying numbers and configurations of GCPs were investigated on both a 0.40-ha area the size of a typical plant breeding trial and a 64.7-ha area (i.e., a U.S. quarter section) the size of a typical agricultural production field. Results demonstrated that four GCPs placed at the corners of the breeding-scale field resulted in two-dimensional (2D) error of ±3 cm in the absence of RTK, with minimal improvements when including more GCPs. The orthomosaics from the RTK-equipped sUAS demonstrated improved 2D accuracy even without the use of GCPs, with a maximum mean error of 0.08 m. Four GCPs were found to be sufficient to reduce altitudinal (Z) error, with maximum mean error of only 0.05 and 1.98 m for the RTK and non-RTK flights, respectively, for the production-scale field. Thus, using four GCPs, RTK-equipped sUAS, or a combination will result in improved georeferencing for photogrammetry products.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
 
 tags:
   - Drones
-  - Machine Learning
-  - Peanut
+  - GIS
+  - Methods
 
 # Display this page in the Featured widget?
 featured: true
