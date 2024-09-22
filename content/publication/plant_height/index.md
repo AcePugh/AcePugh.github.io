@@ -1,5 +1,5 @@
 ---
-title: 'Comparison of image georeferencing strategies for agricultural applications of small unoccupied aircraft systems'
+title: 'Temporal Estimates of Crop Growth in Sorghum and Maize Breeding Enabled by Unmanned Aerial Systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
