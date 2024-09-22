@@ -1,13 +1,16 @@
 ---
 # Leave the homepage title empty to use the site title
+#page title
 title: ""
 date: 2022-10-24
+#Page type - we want a landing page (such as a homepage)
 type: landing
 
 design:
   # Default section spacing
   spacing: "6rem"
 
+# Landing page sections - add as many different content blocks as you like
 sections:
   - block: resume-biography-3
     content:
@@ -39,7 +42,7 @@ sections:
 
         I use a wide range of remote sensing tools such as small unoccupied aircraft systems (sUAS), or "drones", satellite imagery, and field-based proximal sensors. Once these data are collected, I use machine learning techniques to estimate or predict key traits including yield, drought tolerance, quality, and more.
         
-        Please contact me if you're interested in collaborating!
+        Please contact me if you'd like to ask about my work or if you're interested in collaborating!
     design:
       columns: '1'
   - block: collection
