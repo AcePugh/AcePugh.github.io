@@ -115,7 +115,7 @@ skills:
       - name: Python
         description: ''
         percent: 
-        icon: python-logo.svg
+        icon: python-svgrepo-com
       - name: R
         description: ''
         icon: 
