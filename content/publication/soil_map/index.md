@@ -1,5 +1,5 @@
 ---
-title: 'Comparison of image georeferencing strategies for agricultural applications of small unoccupied aircraft systems'
+title: 'A statistical evaluation of replicated block designs and spatial variability in sorghum performance trials'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
