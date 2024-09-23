@@ -36,8 +36,8 @@ abstract: Peanut is a critical food crop worldwide, and the development of high-
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
 
 tags:
-  - Drones
   - Machine Learning
+  - Drones
   - Peanut
 
 # Display this page in the Featured widget?

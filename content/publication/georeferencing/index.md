@@ -34,9 +34,9 @@ abstract: Small unoccupied aircraft systems (sUAS) are becoming popular for mapp
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
 
 tags:
-  - Drones
-  - GIS
   - Methods
+  - GIS
+  - Drones
 
 # Display this page in the Featured widget?
 featured: true

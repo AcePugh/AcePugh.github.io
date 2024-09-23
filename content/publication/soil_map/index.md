@@ -35,9 +35,9 @@ abstract: Success of hybrid performance trials has always been susceptible to th
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
 
 tags:
-  - Drones
-  - GIS
   - Spatial Statistics
+  - GIS
+  - Remote Sensing
 
 # Display this page in the Featured widget?
 featured: true
