@@ -118,30 +118,30 @@ skills:
         icon: devicon/python
       - name: R
         description: ''
-        icon: 
-      - name: Data Science
+        icon: devicon/r
+      - name: OpenCV
         description: ''
         percent: 
-        icon: chart-bar
-      - name: Machine Learning
+        icon: devicon/opencv
+      - name: scikit-learn
         description: ''
         percent: 
-        icon: circle-stack
+        icon: devicon/scikitlearn
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Coding
         description: ''
-        icon: person-simple-walk
+        icon: hero/code-bracket
       - name: Gaming
         description: ''
-        icon: cat
+        icon: hero/puzzle-piece
       - name: Gym
         description: ''
-        icon: camera
+        icon: hero/heart
       - name: Cooking
-        description: ''
+        description: hero/home-modern
 
 # Awards.
 #   Add/remove as many awards below as you like.
