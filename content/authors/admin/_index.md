@@ -141,8 +141,8 @@ skills:
         description: ''
         icon: hero/heart
       - name: Cooking
-        description: hero/home-modern
-
+        description: hero/home
+        
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
