@@ -8,6 +8,6 @@ tags:
   - Abiotic Stress
 ---
 
-Prediction of stay-green (post-flowering drought tolerance) in sorghum using machine learning models.
+Drought stress prediction in sorghum.
 
 <!--more-->
