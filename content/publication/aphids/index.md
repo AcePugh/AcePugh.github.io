@@ -1,5 +1,5 @@
 ---
-title: 'A Large Sequenced Mutant Library Covers 98% of the Genes in the Genome of the Sorghum Inbred Line BTx623'
+title: 'Estimating the Severity of Sugarcane Aphids Infestation on Sorghum with Machine Vision'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -16,7 +16,7 @@ authors:
 # Author notes (optional)
 #author_notes:
 date: '2020-11-02'
-#doi: ''
+doi: 'https://www.ijpaa.org/index.php/ijpaa/article/view/89'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
