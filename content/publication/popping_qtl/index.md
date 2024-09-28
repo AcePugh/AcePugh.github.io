@@ -1,23 +1,20 @@
 ---
-title: 'Registration of 252 sequenced sorghum mutants as a community reverse genetic resource'
+title: 'Identification of quantitative trait loci for popping traits and kernel characteristics in sorghum grain'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhanguo Xin
-  - Yinping Jiao
-  - Gloria Burow
-  - Chad Hayes
-  - Junping Chen
-  - John Burke
   - admin
-  - Doreen Ware
+  - Raul Rodriguez-Herrera
+  - Robert R. Klein
+  - Patricia E. Klein
+  - William L. Rooney
 
 # Author notes (optional)
 #author_notes:
-date: '2023-05-26'
-doi: 'https://doi.org/10.1002/plr2.20296'
+date: '2017-05-18'
+doi: 'https://doi.org/10.2135/cropsci2017.01.0029'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -28,18 +25,17 @@ doi: 'https://doi.org/10.1002/plr2.20296'
 publication_types: ['Research Paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Plant Registrations*
+publication: In *Crop Science*
 #publication_short: In *F*
 
-abstract: Induced mutagenesis is a powerful approach to generate variations that can be used toward the elucidation of gene function and create new traits for crop improvement. We have developed a pedigreed mutant library through chemical mutagenesis with ethyl methanesulfonate (EMS)-treated seed from the sorghum (Sorghum bicolor L. Moench) inbred line BTx623. The mutant library displayed a wide diversity of phenotypes, including potential traits of significant agronomic value. A selection of 252 lines (Reg. no. GS-794–Reg no. GS-1045, PI 701562–PI 701813) were sequenced to an average depth of 16x with paired-end sequencing using Illumina Highseq. This endeavor resulted in the detection and cataloguing of more than 1.8 million canonical EMS-induced mutations (variants). The variants were distributed across the sorghum genome uniformly, with 24,757 genes affected by impactful mutations that may alter the gene function. Mutations in genes of interest can be searched online through SorghumBase (https://www.sorghumbase.org). These sequenced mutants can be ordered through GRIN (https://www.ars-grin.gov/) with no associated fee.
+abstract: Popped grain sorghum [Sorghum bicolor (L.) Moench] has developed a niche among specialty snack-food consumers. In contrast with popcorn (Zea mays L.), sorghum has not benefitted from persistent selective breeding for popping efficiency and kernel expansion ratio. Although recent studies have already demonstrated that popping characteristics are heritable in sorghum, the discovery of quantitative trait loci (QTL) for these traits could help expedite and streamline the breeding process. To that end, the objective of this study was to identify regions of the sorghum genome associated with kernel popping traits. Using digital genotyping technology in conjunction with linkage mapping methodology, QTL were identified for kernel popping efficiency and kernel expansion ratio. Additionally, sets of QTL were identified for desirable traits including kernel weight, kernel diameter, kernel hardness, and kernel color. These results provide an initial assessment of regions of the sorghum genome that harbor trait loci controlling the popping quality of sorghum kernels and provide a basis for further detailed genetic studies of this relatively new use for food-grade sorghum grain.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
 
 tags:
-  - Remote Sensing
-  - Drones
-  - Methods
+  - Plant Breeding
+  - Genetics
 
 # Display this page in the Featured widget?
 featured: false

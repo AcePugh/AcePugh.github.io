@@ -1,23 +1,17 @@
 ---
-title: 'Registration of 252 sequenced sorghum mutants as a community reverse genetic resource'
+title: 'Heritability of popping characteristics in sorghum grain'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhanguo Xin
-  - Yinping Jiao
-  - Gloria Burow
-  - Chad Hayes
-  - Junping Chen
-  - John Burke
   - admin
-  - Doreen Ware
-
+  - Joseph M. Awika
+  - William L. Rooney
 # Author notes (optional)
 #author_notes:
-date: '2023-05-26'
-doi: 'https://doi.org/10.1002/plr2.20296'
+date: '2017-01-01'
+doi: 'https://doi.org/10.2135/cropsci2016.04.0250'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -28,18 +22,17 @@ doi: 'https://doi.org/10.1002/plr2.20296'
 publication_types: ['Research Paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Plant Registrations*
+publication: In *Crop Science*
 #publication_short: In *F*
 
-abstract: Induced mutagenesis is a powerful approach to generate variations that can be used toward the elucidation of gene function and create new traits for crop improvement. We have developed a pedigreed mutant library through chemical mutagenesis with ethyl methanesulfonate (EMS)-treated seed from the sorghum (Sorghum bicolor L. Moench) inbred line BTx623. The mutant library displayed a wide diversity of phenotypes, including potential traits of significant agronomic value. A selection of 252 lines (Reg. no. GS-794–Reg no. GS-1045, PI 701562–PI 701813) were sequenced to an average depth of 16x with paired-end sequencing using Illumina Highseq. This endeavor resulted in the detection and cataloguing of more than 1.8 million canonical EMS-induced mutations (variants). The variants were distributed across the sorghum genome uniformly, with 24,757 genes affected by impactful mutations that may alter the gene function. Mutations in genes of interest can be searched online through SorghumBase (https://www.sorghumbase.org). These sequenced mutants can be ordered through GRIN (https://www.ars-grin.gov/) with no associated fee.
+abstract: Popped sorghum (Sorghum bicolor L. Moench) has become popular among niche food consumers. To provide product for this market, producers are usually popping grain from hybrids that were not developed for popping. With selection, the popping quality of sorghum could likely be improved substantially, but the relative effects of genotype, environment, and the heritability of popping-related traits remain unknown. The objectives of this study were (i) to determine the relative effect of both genotype and environment on popping quality and (ii) to estimate heritability of these traits in sorghum. Using hot-air popping, popping efficiency and the expansion ratio were evaluated in grain from 130 recombinant inbred lines (Sureño/RTx430) grown in three different Texas environments. Both popping efficiency and the expansion ratio were affected by genotype, environment, and the genotype × environment interaction. Using combined analysis, the heritability on an entry-mean basis for popping efficiency was 0.674 (0.579 to 0.746) while the expansion ratio was 0.759 (0.687 to 0.811). These results indicate that both the genotype and environment should be carefully selected to optimize popping productivity and quality. Further, the heritability of these traits indicates that selection for improved popping is possible.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
 
 tags:
-  - Remote Sensing
-  - Drones
-  - Methods
+  - Plant Breeding
+  - Genetics
 
 # Display this page in the Featured widget?
 featured: false

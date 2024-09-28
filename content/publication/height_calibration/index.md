@@ -1,23 +1,27 @@
 ---
-title: 'Registration of 252 sequenced sorghum mutants as a community reverse genetic resource'
+title: 'Measurement and calibration of plant-height from fixed-wing UAV images'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhanguo Xin
-  - Yinping Jiao
-  - Gloria Burow
-  - Chad Hayes
-  - Junping Chen
-  - John Burke
+  - Xiongzhe Han
+  - J. Alex Thomasson
+  - G. Cody Bagnall
   - admin
-  - Doreen Ware
+  - David W. Horne
+  - William L. Rooney
+  - Jinha Jung
+  - Anjin Chang
+  - Lonesome Malambo
+  - Sorin C. Popescu
+  - Ian T. Gates
+  - Dale A. Cope
 
 # Author notes (optional)
 #author_notes:
-date: '2023-05-26'
-doi: 'https://doi.org/10.1002/plr2.20296'
+date: '2018-11-22'
+doi: 'https://doi.org/10.3390/s18124092'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -28,10 +32,10 @@ doi: 'https://doi.org/10.1002/plr2.20296'
 publication_types: ['Research Paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Plant Registrations*
+publication: In *MDPI Sensors*
 #publication_short: In *F*
 
-abstract: Induced mutagenesis is a powerful approach to generate variations that can be used toward the elucidation of gene function and create new traits for crop improvement. We have developed a pedigreed mutant library through chemical mutagenesis with ethyl methanesulfonate (EMS)-treated seed from the sorghum (Sorghum bicolor L. Moench) inbred line BTx623. The mutant library displayed a wide diversity of phenotypes, including potential traits of significant agronomic value. A selection of 252 lines (Reg. no. GS-794–Reg no. GS-1045, PI 701562–PI 701813) were sequenced to an average depth of 16x with paired-end sequencing using Illumina Highseq. This endeavor resulted in the detection and cataloguing of more than 1.8 million canonical EMS-induced mutations (variants). The variants were distributed across the sorghum genome uniformly, with 24,757 genes affected by impactful mutations that may alter the gene function. Mutations in genes of interest can be searched online through SorghumBase (https://www.sorghumbase.org). These sequenced mutants can be ordered through GRIN (https://www.ars-grin.gov/) with no associated fee.
+abstract: Continuing population growth will result in increasing global demand for food and fiber for the foreseeable future. During the growing season, variability in the height of crops provides important information on plant health, growth, and response to environmental effects. This paper indicates the feasibility of using structure from motion (SfM) on images collected from 120 m above ground level (AGL) with a fixed-wing unmanned aerial vehicle (UAV) to estimate sorghum plant height with reasonable accuracy on a relatively large farm field. Correlations between UAV-based estimates and ground truth were strong on all dates (R2 > 0.80) but are clearly better on some dates than others. Furthermore, a new method for improving UAV-based plant height estimates with multi-level ground control points (GCPs) was found to lower the root mean square error (RMSE) by about 20%. These results indicate that GCP-based height calibration has a potential for future application where accuracy is particularly important. Lastly, the image blur appeared to have a significant impact on the accuracy of plant height estimation. A strong correlation (R2 = 0.85) was observed between image quality and plant height RMSE and the influence of wind was a challenge in obtaining high-quality plant height data. A strong relationship (R2 = 0.99) existed between wind speed and image blurriness.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
