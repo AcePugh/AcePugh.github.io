@@ -16,7 +16,7 @@ authors:
 # Author notes (optional)
 #author_notes:
 date: '2020-11-02'
-doi: 'https://www.ijpaa.org/index.php/ijpaa/article/view/89'
+#doi: '10.33440/j.ijpaa.20200302.89'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
