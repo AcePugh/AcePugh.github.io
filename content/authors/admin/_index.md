@@ -124,8 +124,6 @@ skills:
     items:
       - name: Drone Pilot
         description: Certified Part 107 UAS Pilot
-        percent: ''
-        icon: ''
       - name: Python
         description: ''
         percent: ''
@@ -134,12 +132,8 @@ skills:
         description: ''
         icon: devicon/r
       - name: OpenCV
-        description: ''
-        percent: ''
         icon: devicon/opencv
       - name: scikit-learn
-        description: ''
-        percent: ''
         icon: devicon/scikitlearn
   - name: Hobbies
     color: '#eeac02'
