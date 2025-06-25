@@ -78,8 +78,7 @@ education:
     date_end: '2012-05-20'
 
 work:
-  
-  - position:
+  - position: Research Plant Scientist
     company_name: USDA-ARS
     company_name: ''
     company_url: ''
