@@ -10,7 +10,7 @@ first_name: Ace
 last_name: Pugh
 
 # Status emoji
-status: 
+status:
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -59,7 +59,7 @@ education:
     date_start: '2015-05-21'
     date_end: '2018-12-15'
     summary: |
-      Dissertation on the use of remote and proximal sensing in crop breeding programs.
+        Dissertation on the use of remote and proximal sensing in crop breeding programs.
     button:
       text: Read Dissertation
       url: https://oaktrust.library.tamu.edu/handle/1969.1/174548
@@ -68,7 +68,7 @@ education:
     date_start: '2012-08-01'
     date_end: '2015-05-20'
     summary: |
-      Thesis on determining heritability and identifying quantitative trait loci (QTL) for popping quality in sorghum grain.
+        Thesis on determining heritability and identifying quantitative trait loci (QTL) for popping quality in sorghum grain.
     button:
       text: Read Thesis
       url: https://oaktrust.library.tamu.edu/handle/1969.1/155661
@@ -85,13 +85,13 @@ work:
     date_start: '2024-12-30'
     date_end: ''
     summary: |
-      Responsibilities include:
-       - Collection of remote sensing data for cotton and other row crops using drones and other tools
-       - Processing imagery and extracting key features
-       - Development and testing of high-throughput phenotyping methodologies
-       - Use of satellite data and machine learning models to estimate yield and other key traits at production field-scale
-       - Development of machine learning models to estimate traits of importance in cotton and other crops
-       - Assisting with breeding and improvement of cotton and sorghum
+        Responsibilities include:
+          - Collection of remote sensing data for cotton and other row crops using drones and other tools
+          - Processing imagery and extracting key features
+          - Development and testing of high-throughput phenotyping methodologies
+          - Use of satellite data and machine learning models to estimate yield and other key traits at production field-scale
+          - Development of machine learning models to estimate traits of importance in cotton and other crops
+          - Assisting with breeding and improvement of cotton and sorghum
   - position: Postdoctoral Research Geneticist
     company_name: USDA-ARS
     company_url: ''
@@ -99,12 +99,12 @@ work:
     date_start: '2021-07-05'
     date_end: '2024-12-29'
     summary: |
-      Responsibilities included:
-      - Collection of remote sensing data for cotton, sorghum, peanut, and maize using drones
-      - Processing of imagery and feature extraction
-      - Development of machine learning models for yield and other key traits for cotton, peanut, and sorghum
-      - Assisting with breeding and improvement of sorghum and other crops
-      - Genetic analyses and other laboratory assays as needed     
+        Responsibilities included:
+          - Collection of remote sensing data for cotton, sorghum, peanut, and maize using drones
+          - Processing of imagery and feature extraction
+          - Development of machine learning models for yield and other key traits for cotton, peanut, and sorghum
+          - Assisting with breeding and improvement of sorghum and other crops
+          - Genetic analyses and other laboratory assays as needed
   - position: Postdoctoral Scientist
     company_name: University of Arizona
     company_url: ''
@@ -112,10 +112,10 @@ work:
     date_start: '2019-01-01'
     date_end: '2021-06-20'
     summary: |
-      Responsibilities included:
-      - Collection of remote sensing data for cotton and other crops using drones
-      - Processing of raw imagery for feature extraction
-      - Lead on project involving determining optimal georeferencing methodologies
+        Responsibilities included:
+          - Collection of remote sensing data for cotton and other crops using drones
+          - Processing of raw imagery for feature extraction
+          - Lead on project involving determining optimal georeferencing methodologies
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -124,22 +124,22 @@ skills:
     items:
       - name: Drone Pilot
         description: Certified Part 107 UAS Pilot
-        percent: 
-        icon: 
+        percent:
+        icon:
       - name: Python
         description: ''
-        percent: 
+        percent:
         icon: devicon/python
       - name: R
         description: ''
         icon: devicon/r
       - name: OpenCV
         description: ''
-        percent: 
+        percent:
         icon: devicon/opencv
       - name: scikit-learn
         description: ''
-        percent: 
+        percent:
         icon: devicon/scikitlearn
   - name: Hobbies
     color: '#eeac02'
@@ -155,13 +155,13 @@ skills:
         description: ''
         icon: hero/heart
       - name: Cooking
-        description: 
+        description:
         icon: hero/home-modern
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+#  Add/remove as many awards below as you like.
+#  Only `title`, `awarder`, and `date` are required.
+#  Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 #awards:
 #  - title: Neural Networks and Deep Learning
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -176,20 +176,20 @@ skills:
 #    awarder: edX
 #    icon: edx
 #    summary: |
- #     Learned:
- #     - Synthesize your own blockchain solutions
- #     - Gain an in-depth understanding of the specific mechanics of Bitcoin
- #     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to #Bitcoin’s Proof-of-Work consensus algorithm
-  #- title: 'Object-Oriented Programming in R'
-  #  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-   # certificate_url: https://www.datacamp.com
-  #  date: '2023-01-21'
-   # awarder: datacamp
-   # icon: datacamp
-   # summary: |
-   #   Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity #in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming #tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+#      Learned:
+#      - Synthesize your own blockchain solutions
+#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to #Bitcoin’s Proof-of-Work consensus algorithm
+#  - title: 'Object-Oriented Programming in R'
+#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#    certificate_url: https://www.datacamp.com
+#    date: '2023-01-21'
+#    awarder: datacamp
+#    icon: datacamp
+#    summary: |
+#      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity #in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming #tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Nicholas Ace Pugh is a USDA-ARS Plant Scientist at the Cropping Systems Research Laboratory in Lubbock, TX. His research interests include plant breeding and genetics, remote sensing and digital agriculture, and the applied use of artificial intelligence. 
+Nicholas Ace Pugh is a USDA-ARS Plant Scientist at the Cropping Systems Research Laboratory in Lubbock, TX. His research interests include plant breeding and genetics, remote sensing and digital agriculture, and the applied use of artificial intelligence.
