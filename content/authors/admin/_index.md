@@ -86,12 +86,12 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Collection of remote sensing data for cotton and other row crops using drones and other tools
-      - Processing imagery and extracting key features
-      - Development and testing of high-throughput phenotyping methodologies
-      - Use of satellite data and machine learning models to estimate yield and other key traits at production field-scale
-      - Development of machine learning models to estimate traits of importance in cotton and other crops
-      - Assisting with breeding and improvement of cotton and sorghum
+       - Collection of remote sensing data for cotton and other row crops using drones and other tools
+       - Processing imagery and extracting key features
+       - Development and testing of high-throughput phenotyping methodologies
+       - Use of satellite data and machine learning models to estimate yield and other key traits at production field-scale
+       - Development of machine learning models to estimate traits of importance in cotton and other crops
+       - Assisting with breeding and improvement of cotton and sorghum
   - position: Postdoctoral Research Geneticist
     company_name: USDA-ARS
     company_url: ''
