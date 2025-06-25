@@ -80,7 +80,6 @@ education:
 work:
   - position: Research Plant Scientist
     company_name: USDA-ARS
-    company_name: ''
     company_url: ''
     company_logo: ''
     date_start: '2024-12-30'
