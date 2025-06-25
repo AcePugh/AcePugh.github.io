@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Scientist
+role: Research Plant Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -78,14 +78,30 @@ education:
     date_end: '2012-05-20'
 
 work:
+  
+  - position:
+    company_name: USDA-ARS
+    company_name: ''
+    company_url: ''
+    company_logo: ''
+    date_start: '2024-12-30'
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Collection of remote sensing data for cotton and other row crops using drones and other tools
+      - Processing imagery and extracting key features
+      - Development and testing of high-throughput phenotyping methodologies
+      - Use of satellite data and machine learning models to estimate yield and other key traits at production field-scale
+      - Development of machine learning models to estimate traits of importance in cotton and other crops
+      - Assisting with breeding and improvement of cotton and sorghum
   - position: Postdoctoral Research Geneticist
     company_name: USDA-ARS
     company_url: ''
     company_logo: ''
     date_start: '2021-07-05'
-    date_end: ''
+    date_end: '2024-12-29'
     summary: |
-      Responsibilities include:
+      Responsibilities included:
       - Collection of remote sensing data for cotton, sorghum, peanut, and maize using drones
       - Processing of imagery and feature extraction
       - Development of machine learning models for yield and other key traits for cotton, peanut, and sorghum
@@ -178,4 +194,4 @@ skills:
 
 ## About Me
 
-Nicholas Ace Pugh is a USDA-ARS postdoctoral Research Geneticist at the Cropping Systems Research Laboratory in Lubbock, TX. His research interests include plant breeding and genetics, remote sensing and digital agriculture, and the applied use of artificial intelligence. 
+Nicholas Ace Pugh is a USDA-ARS Plant Scientist at the Cropping Systems Research Laboratory in Lubbock, TX. His research interests include plant breeding and genetics, remote sensing and digital agriculture, and the applied use of artificial intelligence. 
