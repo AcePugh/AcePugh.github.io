@@ -6,7 +6,7 @@
 # Website name
 title: N. Ace Pugh, Ph.D.
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://acepugh.github.io/'
 
 ############################
 ## LANGUAGE
@@ -25,7 +25,8 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
