@@ -6,6 +6,7 @@ date: 2022-10-24
 #Page type - we want a landing page (such as a homepage)
 type: landing
 
+# Configuration
 design:
   # Default section spacing
   spacing: "6rem"
@@ -72,27 +73,11 @@ sections:
     id: posts
     content:
       title: Recent Blog Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
       count: 3
-      # Filter on criteria
       filters:
         folders:
           - posts
-        author: ''
-        category: ''
-        tag: ''
-        publication_type: ''
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view for the collection
-      view: compact
       columns: '2'
+---
