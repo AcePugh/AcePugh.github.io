@@ -17,7 +17,7 @@ authors:
 # Author notes (optional)
 #author_notes:
 date: '2025-06-01'
-doi: 'https://www.scirp.org/journal/paperinformation?paperid=143706'
+doi: '10.4236/ars.2025.142006'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
