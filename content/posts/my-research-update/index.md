@@ -10,8 +10,6 @@ tags:
   - Machine Learning
   - Agriculture
   - Drones
-image:
-  caption: 'Field work with drones for crop monitoring'
 ---
 
 ## Current Research Focus

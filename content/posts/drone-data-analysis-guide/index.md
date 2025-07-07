@@ -11,8 +11,6 @@ tags:
   - Multispectral
   - Python
   - Remote Sensing
-image:
-  caption: 'Multispectral drone imagery analysis workflow'
 ---
 
 ## Introduction

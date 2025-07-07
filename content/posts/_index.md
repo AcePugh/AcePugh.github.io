@@ -1,7 +1,6 @@
 ---
 title: Blog
-type: page
-view: article-grid
+type: section
 summary: "Welcome to my blog where I share updates about my research in remote sensing and AI for agriculture."
 ---
 

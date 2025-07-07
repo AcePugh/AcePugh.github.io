@@ -8,8 +8,6 @@ tags:
   - Welcome
   - Research
   - Blog
-image:
-  caption: 'Welcome to my blog'
 ---
 
 Welcome to my blog! I'm excited to share regular updates about my research, projects, and insights in the world of remote sensing and artificial intelligence applied to agriculture.
