@@ -1,6 +1,6 @@
 ---
 title: Satellite Crop Yield and Health Estimation
-date: 2025
+date: 2025-05-01
 #external_link: 
 tags:
   - Satellite
