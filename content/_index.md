@@ -45,7 +45,7 @@ sections:
         
         Please contact me if you'd like to ask about my work or if you're interested in collaborating!
 
-        Disclaimer: The views expressed on this website are my own and do not necessarily reflect the views of the USDA or the U.S. Government.
+        ***Disclaimer: The views expressed on this website are my own and do not necessarily reflect the views of the USDA or the U.S. Government.***
     design:
       columns: '1'
   - block: collection
