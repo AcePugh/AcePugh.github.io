@@ -10,6 +10,7 @@ tags:
   - Machine Learning
   - Agriculture
   - Drones
+  - Blog
 ---
 
 ## Update

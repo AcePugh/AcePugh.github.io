@@ -7,6 +7,7 @@ authors:
 tags:
   - Cotton
   - Plant Breeding
+  - Blog
 ---
 
 ## Update
