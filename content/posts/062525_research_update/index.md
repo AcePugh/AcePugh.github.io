@@ -1,7 +1,7 @@
 ---
 title: Research Update
 summary: A quick update on the status of our experiments post-severe weather
-date: 2025-05-20
+date: 2025-06-25
 authors:
   - admin
 tags:

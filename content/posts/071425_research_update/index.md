@@ -25,10 +25,6 @@ Our team has been deploying small unoccupied aircraft systems (sUAS) to monitor 
 - Detect early signs of drought stress (hopefully)
 - Predict final yield weeks before harvest
 
-### Machine Learning Pipeline Development
-
-I've been developing new machine learning models that can process satellite imagery alongside drone data to provide more robust crop predictions. The preliminary results are promising.
-
 ### Collaboration Opportunities
 
 Reminder: I'm always looking for new collaboration opportunities! If you're working in:
