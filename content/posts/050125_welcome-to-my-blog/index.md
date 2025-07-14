@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Blog!
 summary: This is the first post on my new blog where I'll share updates about my research and work.
-date: 2025-07-07
+date: 2025-05-01
 authors:
   - admin
 tags:
@@ -19,7 +19,7 @@ On this blog, I'll be sharing:
 - **Research Updates**: Latest findings from my work at USDA-ARS
 - **Technical Insights**: Tips and tricks for using drones, satellite imagery, and machine learning in agriculture
 - **Project Highlights**: Behind-the-scenes looks at my current projects
-- **Industry News**: Interesting developments in precision agriculture and remote sensing
+- **Industry News**: Interesting developments in precision agriculture, drones, remote sensing, and more
 
 ## Stay Connected
 
