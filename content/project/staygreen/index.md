@@ -8,6 +8,6 @@ tags:
   - Abiotic Stress
 ---
 
-Drought stress prediction in sorghum.
+Drought stress prediction in sorghum using RGB and canopy height data. Performance is similar to scores assigned by a human.
 
 <!--more-->

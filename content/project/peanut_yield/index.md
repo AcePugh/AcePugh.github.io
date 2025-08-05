@@ -8,6 +8,6 @@ tags:
   - Crop Yield
 ---
 
-Machine learning to predict yield in peanut.
+Machine learning to predict yield in peanut using growth curves. Multiple informative traits can be pulled from the growth curves.
 
 <!--more-->
