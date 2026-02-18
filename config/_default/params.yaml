@@ -36,15 +36,13 @@ header:
     #Align menu links: 'left', 'center', or 'right'
     logo:
     #Logo text
-      text: ""
+      text: "Dr. Ace Pugh"
       #Logo filename in 'assets/media/' folder
       filename: "logo.svg"
     # Shop a call-to-action button in the top right?
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo:
-      text: "Dr. Ace Pugh"
 
 # Site footer
 footer:
