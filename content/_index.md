@@ -39,7 +39,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a postdoctoral research scientist at the USDA-ARS. My mission is to use remote sensing and artificial intelligence tools to augment the breeding and production of key crop species.
+        I'm a research scientist at the USDA-ARS. My mission is to use remote sensing and artificial intelligence tools to augment the breeding and production of key crop species.
 
         I use a wide range of remote sensing tools such as small unoccupied aircraft systems (sUAS), or "drones", satellite imagery, and field-based proximal sensors. Once these data are collected, I use machine learning techniques to estimate or predict key traits including yield, drought tolerance, quality, and more.
         
