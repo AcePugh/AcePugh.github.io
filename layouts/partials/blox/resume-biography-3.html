@@ -1,0 +1,140 @@
+{{/* Hugo Blox: Biography 3 — neon homepage hero.
+    Same profile data as the theme block, arranged like the approved mockup. */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $author := $block.content.username | default "admin" }}
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`." $person_page_path }}
+{{ end }}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+{{ $email := "" }}
+{{ range $person.profiles }}
+  {{ $link := .url | default .link }}
+  {{ if hasPrefix $link "mailto:" }}
+    {{ $email = $link }}
+  {{ end }}
+{{ end }}
+
+{{ $orgNames := slice }}
+{{ range $person.organizations }}
+  {{ $orgNames = $orgNames | append .name }}
+{{ end }}
+
+{{ $name := $person_page.Title }}
+{{ $nameHTML := $name }}
+{{ if in $name "Ph.D." }}
+  {{ $nameHTML = replace $name "Ph.D." "<br>Ph.D." }}
+{{ end }}
+
+<div class="neon-hero">
+  <div class="neon-hero-copy">
+    <div class="role-pill">
+      <span class="role-dot" aria-hidden="true"></span>
+      <span>
+        {{- with $person.role }}{{ . | markdownify | emojify }}{{ end -}}
+        {{- with $orgNames }} · {{ delimit . " · " }}{{ end -}}
+      </span>
+    </div>
+
+    <h1 class="neon-name">{{ $nameHTML | safeHTML }}<span class="neon-cursor" aria-hidden="true"></span></h1>
+
+    {{ with $person.interests }}
+    <p class="neon-tagline">{{ lower (delimit . " × ") }}</p>
+    {{ end }}
+
+    {{ with ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}
+    <div class="neon-bio prose prose-slate dark:prose-invert">
+      {{ . }}
+    </div>
+    {{ end }}
+
+    <div class="neon-actions">
+      {{ with $block.content.button }}
+      <a class="btn-cv" href="{{ .url }}" target="_blank" rel="noopener">{{ .text }} <span aria-hidden="true">↓</span></a>
+      {{ end }}
+      {{ with $email }}
+      <a class="btn-ghost" href="{{ . }}">Get in touch <span aria-hidden="true">↗</span></a>
+      {{ end }}
+    </div>
+
+    {{ with $person.interests }}
+    <ul class="interest-tags">
+      {{ range . }}
+      <li title="{{ . }}">#{{ . | anchorize }}</li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+
+  <aside class="neon-idcard">
+    <div class="photo-frame">
+      {{ if $avatar }}
+        {{ $avatar_image := $avatar.Fill "640x480 Center" }}
+        <img src="{{ $avatar_image.RelPermalink }}" width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}" alt="{{ $person_page.Title }}">
+      {{ end }}
+      <span class="bracket tl" aria-hidden="true"></span>
+      <span class="bracket tr" aria-hidden="true"></span>
+      <span class="bracket bl" aria-hidden="true"></span>
+      <span class="bracket br" aria-hidden="true"></span>
+      {{ with $person.status.icon }}<span class="avatar-emoji">{{ . | emojify }}</span>{{ end }}
+    </div>
+
+    <dl class="neon-meta">
+      <div>
+        <dt>loc</dt>
+        <dd>Lubbock, TX</dd>
+      </div>
+      {{ with $orgNames }}
+      <div>
+        <dt>org</dt>
+        <dd>{{ delimit . " · " }} · CSRL</dd>
+      </div>
+      {{ end }}
+      {{ with $person.education }}
+        {{ range $i, $ed := . }}
+        <div>
+          <dt>{{ if eq $i 0 }}edu{{ end }}</dt>
+          <dd>{{ $ed.area }}{{ with $ed.institution }}, {{ . }}{{ end }}</dd>
+        </div>
+        {{ end }}
+      {{ end }}
+    </dl>
+
+    {{ with $person.profiles }}
+    <ul class="social-pills">
+      {{ range . }}
+        {{ $link := .url | default .link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = (.url | default .link) | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        {{ $short := "link" }}
+        {{ if eq .icon "at-symbol" }}
+          {{ $short = "email" }}
+        {{ else if eq .icon "brands/x" }}
+          {{ $short = "x" }}
+        {{ else if eq .icon "brands/github" }}
+          {{ $short = "github" }}
+        {{ else if eq .icon "brands/linkedin" }}
+          {{ $short = "linkedin" }}
+        {{ else if eq .icon "academicons/google-scholar" }}
+          {{ $short = "scholar" }}
+        {{ else if .label }}
+          {{ $short = .label }}
+        {{ end }}
+        <li>
+          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .label | default $short }}">{{ $short }}</a>
+        </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </aside>
+</div>

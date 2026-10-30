@@ -9,7 +9,7 @@ type: landing
 # Configuration
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3.5rem"
 
 # Landing page sections - add as many different content blocks as you like
 sections:
@@ -24,16 +24,6 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
@@ -78,6 +68,9 @@ sections:
         folders:
           - posts
       order: desc
+      archive:
+        text: see all
     design:
-      columns: '2'
+      view: article-grid
+      columns: '3'
 ---

@@ -5,8 +5,9 @@
 
 # Appearance
 appearance:
-  mode: system #dark, light, or system mode?
-  color: emerald   #originally emerald
+  # Neon theme is dark-only. Light mode is forced off in assets/css/custom.css.
+  mode: dark
+  color: emerald   #palette overridden by --acc-rgb in assets/css/custom.css
 
 # SEO
 marketing:
@@ -35,10 +36,8 @@ header:
     blox: "navbar"
     #Align menu links: 'left', 'center', or 'right'
     logo:
-    #Logo text
-      text: "Dr. Ace Pugh"
-      #Logo filename in 'assets/media/' folder
-      filename: "logo.svg"
+      # Wordmark. A logo file is intentionally not set.
+      text: "~/acepugh"
     # Shop a call-to-action button in the top right?
     fixed_to_top: true
     show_search: true

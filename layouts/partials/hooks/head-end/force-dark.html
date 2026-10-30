@@ -1,0 +1,28 @@
+<script>
+  (function () {
+    var root = document.documentElement;
+    var force = function () {
+      root.classList.add("dark");
+      root.style.colorScheme = "dark";
+    };
+    force();
+    try { localStorage.setItem("wc-color-theme", "dark"); } catch (e) {}
+    if (window.hbb) {
+      window.hbb.setDarkTheme = force;
+      window.hbb.setLightTheme = force;
+      window.hbb.defaultTheme = "dark";
+    }
+    document.addEventListener("DOMContentLoaded", function () {
+      force();
+      document.querySelectorAll(".theme-toggle").forEach(function (el) {
+        el.dataset.theme = "dark";
+        el.addEventListener("click", function (event) {
+          event.preventDefault();
+          event.stopImmediatePropagation();
+          force();
+          try { localStorage.setItem("wc-color-theme", "dark"); } catch (e) {}
+        }, true);
+      });
+    });
+  })();
+</script>
