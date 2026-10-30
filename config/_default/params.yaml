@@ -41,7 +41,7 @@ header:
     # Shop a call-to-action button in the top right?
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
 
 # Site footer
 footer:

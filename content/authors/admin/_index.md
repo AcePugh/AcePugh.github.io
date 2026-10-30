@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Plant Scientist
+role: Research Plant Physiologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -78,7 +78,7 @@ education:
     date_end: '2012-05-20'
 
 work:
-  - position: Research Plant Scientist
+  - position: Research Plant Physiologist
     company_name: USDA-ARS
     company_url: ''
     company_logo: ''
@@ -186,4 +186,4 @@ skills:
 
 ## About Me
 
-Nicholas Ace Pugh is a USDA-ARS Plant Scientist at the Cropping Systems Research Laboratory in Lubbock, TX. His research interests include plant breeding and genetics, remote sensing and digital agriculture, and the applied use of artificial intelligence.
+Nicholas Ace Pugh is a USDA-ARS Research Plant Physiologist at the Cropping Systems Research Laboratory in Lubbock, TX. His research interests include plant breeding and genetics, remote sensing and digital agriculture, and the applied use of artificial intelligence.
