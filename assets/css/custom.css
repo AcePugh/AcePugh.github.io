@@ -44,14 +44,15 @@
 }
 
 html {
-  background: #07090c;
+  background: #0b0d10;
   color-scheme: dark;
 }
 
 html,
 body,
 :is(.dark .dark\:bg-hb-dark) {
-  background-color: #07090c;
+  background-color: #0b0d10;
+  background-image: none;
   color: #d5e0dc;
 }
 
@@ -60,26 +61,9 @@ body {
   min-height: 100vh;
 }
 
-/* Dot grid + faint teal wash. Fixed layers stay behind the page. */
 body::before,
 body::after {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: 0;
-}
-
-body::before {
-  background-image: radial-gradient(rgb(var(--acc-rgb) / 0.22) 0.85px, transparent 1px);
-  background-size: 22px 22px;
-  mask-image: radial-gradient(ellipse at 50% 30%, #000 35%, transparent 85%);
-}
-
-body::after {
-  background:
-    radial-gradient(820px 460px at 76% 16%, rgb(var(--acc-rgb) / 0.1), transparent 68%),
-    radial-gradient(640px 380px at 12% -10%, rgb(var(--acc-rgb) / 0.06), transparent 70%);
+  content: none;
 }
 
 .page-header,
@@ -120,7 +104,7 @@ h1, h2, h3, h4, h5, h6,
 
 /* Header */
 .page-header {
-  background: rgb(7 9 12 / 0.88) !important;
+  background: #0b0d10 !important;
   backdrop-filter: blur(14px);
 }
 
@@ -449,7 +433,7 @@ h1, h2, h3, h4, h5, h6,
   border-radius: 999px;
   text-align: center;
   font-size: 16px;
-  background: #07090c;
+  background: #0b0d10;
   border: 1px solid rgb(var(--acc-rgb) / 0.45);
   box-shadow: none;
 }
@@ -629,7 +613,7 @@ h1, h2, h3, h4, h5, h6,
   font-size: 0.78rem;
   letter-spacing: 0.01em;
   background:
-    repeating-linear-gradient(-45deg, rgb(7 9 12 / 0.2), rgb(7 9 12 / 0.2) 8px, rgb(var(--acc-rgb) / 0.05) 8px, rgb(var(--acc-rgb) / 0.05) 9px);
+    repeating-linear-gradient(-45deg, rgb(11 13 16 / 0.2), rgb(11 13 16 / 0.2) 8px, rgb(var(--acc-rgb) / 0.05) 8px, rgb(var(--acc-rgb) / 0.05) 9px);
 }
 
 .group img {
@@ -772,9 +756,9 @@ ol.relative.border-s {
 }
 
 ol.relative > li > span.absolute {
-  background: #07090c !important;
+  background: #0b0d10 !important;
   color: rgb(var(--acc-rgb)) !important;
-  box-shadow: 0 0 0 4px #07090c !important;
+  box-shadow: 0 0 0 4px #0b0d10 !important;
   border: 1px solid rgb(var(--acc-rgb));
 }
 
