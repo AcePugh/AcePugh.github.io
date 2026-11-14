@@ -793,6 +793,19 @@ ol.relative > li > span.absolute {
   border-bottom: 1px solid rgb(var(--acc-rgb) / 0.2);
 }
 
+.x-embed {
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem auto 0.25rem;
+  width: 100%;
+}
+
+.x-embed .twitter-tweet,
+.x-embed iframe {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 @media (max-width: 720px) {
   #posts {
     display: block;
